@@ -37,7 +37,7 @@ export default function Navbar() {
       >
         <a
           href="#donate"
-          className="text-gray-800 hover:text-blue-600 font-medium"
+          className="text-gray-800 hover:text-blue-500 font-medium"
         >
           Donate a Book
         </a>
