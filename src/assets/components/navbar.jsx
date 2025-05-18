@@ -6,7 +6,7 @@ export default function Navbar() {
 
   return (
     <nav className="bg-white shadow-md py-4 px-6 md:px-12 flex items-center justify-between w-full">
-      <div className="text-2xl font-bold text-gray-800">Major's Collection</div>
+      <div className="text-2xl font-bold text-gray-700">Major's Collection</div>
 
       {/* Mobile menu button */}
       <button
