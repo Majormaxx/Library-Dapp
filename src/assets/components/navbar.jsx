@@ -49,7 +49,7 @@ export default function Navbar() {
         </a>
         <button className="flex items-center gap-2 bg-blue-600 text-white py-2 px-4 rounded-lg hover:bg-blue-700 transition-all">
           <FaWallet className="text-lg" />
-          Connect Wallet
+          Connect Wallett
         </button>
       </div>
     </nav>
