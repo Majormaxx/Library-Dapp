@@ -2,10 +2,10 @@ const subjects = [
   "self_help",
   "business",
   "technology",
-  "programming",
-  "biographies",
+  "popular",
+  "Novel",
   "computers",
-  "blockchain"
+  "Nigerian"
 ];
 
 export async function fetchBooks() {

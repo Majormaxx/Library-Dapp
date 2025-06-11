@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { fetchBooks } from "./utils/api";
-import BookCard from "./components/BookCard";
+import BookCard from "./components/bookCard";
 
 export default function App() {
   const [books, setBooks] = useState([]);
